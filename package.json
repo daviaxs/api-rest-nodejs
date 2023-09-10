@@ -25,6 +25,7 @@
     "@rocketseat/eslint-config": "^2.1.0",
     "@types/node": "^20.6.0",
     "eslint": "^8.49.0",
+    "supertest": "^6.3.3",
     "tsx": "^3.12.8",
     "typescript": "^5.2.2",
     "vitest": "^0.34.4"
